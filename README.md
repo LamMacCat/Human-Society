@@ -6,6 +6,14 @@
 
 
 
+- [**Story小故事**](https://github.com/LamMacCat/Human-Society/tree/main/Story%E5%B0%8F%E6%95%85%E4%BA%8B)
+- [Poetry诗](https://github.com/LamMacCat/Human-Society/tree/main/Poetry%E8%AF%97)
+
+- [Photography Artwork摄影](https://github.com/LamMacCat/Human-Society/tree/main/Photography-Artwork%E6%91%84%E5%BD%B1)
+- [Idea/Thinking/Contemplation/Random Thoughts/Free Writing/随想/散文](https://github.com/LamMacCat/Human-Society/tree/main/Idea-Thinking-Contemplation-RandomThoughts-FreeWritin-%E9%9A%8F%E6%83%B3-%E6%95%A3%E6%96%87)
+
+
+
 # Human Society 麥記人類士多
 
 ## Introduction 项目简介 
